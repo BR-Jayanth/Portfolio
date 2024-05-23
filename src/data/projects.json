@@ -1,0 +1,107 @@
+[
+    
+    {
+      "title": "Agromart",
+      "imageSrc": "projects/Agromart.png",
+      "description": "This is an ASP.Net Based E-commerce Web application designed for the farmers and sellers to trade their Agricultural commodities.",
+      "skills": ["Asp .Net", "SQL server", "C#"],
+      "live": null,
+      "source": null
+    },
+    {
+      "title": "Amazon Clone",
+      "imageSrc": "projects/amazonClone.png",
+      "description": "I created a  Amazon home page clone using HTML and CSS, replicating the layout and design of the original site. This project showcases my front-end development skills, focusing on modern web design techniques and user interface replication.",
+      "skills": ["HTML", "CSS"],
+      "live": "https://br-jayanth.github.io/Amazon_clone/",
+      "source": ["https://github.com/BR-Jayanth/Amazon_clone"]
+    },
+    {
+      "title": "Rock-Paper-Scissors",
+      "imageSrc": "projects/rock-paper-scissors.png",
+      "description": "Interactive rock-paper-scissors game, built with HTML for structure, CSS for styling, and JavaScript for user interaction and game logic.",
+      "skills": ["HTML", "CSS","JavaScript"],
+      "live": "https://br-jayanth.github.io/Rock-Paper-Scissors/",
+      "source": ["https://github.com/BR-Jayanth/Rock-Paper-Scissors"]
+    },
+    {
+      "title": "Tic-Tac-Toe",
+      "imageSrc": "projects/ticTacToe.png",
+      "description": "Strategic Tic Tac Toe game with intuitive gameplay and responsive design, crafted using HTML, CSS, and JavaScript.",
+      "skills": ["HTML", "CSS","JavaScript"],
+      "live": "https://br-jayanth.github.io/Tic-tac-Toe/",
+      "source": ["https://github.com/BR-Jayanth/Tic-tac-Toe"]
+    },
+    {
+      "title": "Currency Converter",
+      "imageSrc": "projects/currencyConverter.png",
+      "description": "A currency converter application built with HTML, CSS, and JavaScript, utilizing APIs to display flag icons and fetch real-time exchange rates. This project showcases integration of external APIs and dynamic data handling in a responsive design.",
+      "skills": ["HTML", "CSS","JavaScript"],
+      "live": "https://br-jayanth.github.io/Currency-Converter/",
+      "source": ["https://github.com/BR-Jayanth/Currency-Converter"]
+    },
+    {
+      "title": "Review Surfing",
+      "imageSrc": "projects/reviewSurfing.png",
+      "description": "A review surfing application that displays reviews of holiday locations, built using HTML, CSS, JavaScript, and TypeScript with a responsive design. This project demonstrates expertise in front-end technologies and TypeScript for enhanced code quality and maintainability.",
+      "skills": ["HTML", "CSS","JavaScript","TypeScript"],
+      "live": "https://br-jayanth.github.io/Review-surfing-app/",
+      "source":[ "https://github.com/BR-Jayanth/Review-surfing-app"]
+    },
+    {
+      "title": "Airbnb Mobile Clone",
+      "imageSrc": "projects/airbnbClone.png",
+      "description": "A mobile-responsive Airbnb clone showcasing the home page, crafted using React for dynamic user experiences and mimicking Airbnb's sleek design and functionality. This project highlights proficiency in React development and user interface replication for mobile platforms.",
+      "skills": ["React","JavaScript"],
+      "live": "https://br-jayanth.github.io/Airbnb-mobile-clone/",
+      "source": ["https://github.com/BR-Jayanth/Airbnb-mobile-clone"]
+    },
+    {
+      "title": "To-Do list",
+      "imageSrc": "projects/toDolist.png",
+      "description": "A to-do list application developed with React and JavaScript, featuring responsive design and utilizing localStorage for persistent data management. This project demonstrates skills in React development, dynamic user interactions, and data persistence.",
+      "skills": ["React","JavaScript"],
+      "live": "https://br-jayanth.github.io/To-do-list/",
+      "source": ["https://github.com/BR-Jayanth/To-do-list"]
+    },
+    {
+      "title": "Meme Generator",
+      "imageSrc": "projects/memeGenerator.png",
+      "description": "A meme generator application developed using React and JavaScript, utilizing an API to generate images and a form to accept user text for overlaying on memes. This project highlights skills in API integration, dynamic text handling, and responsive React development.",
+      "skills": ["React","JavaScript"],
+      "live": "https://br-jayanth.github.io/Meme-generator/",
+      "source": ["https://github.com/BR-Jayanth/Meme-generator"]
+    },
+    {
+      "title": "Tenzies Game",
+      "imageSrc": "projects/tenzies.png",
+      "description": "Fast-paced Tenzies dice game built with React, featuring state management for dice rolls and scores, and props for passing data between components.",
+      "skills": ["React","JavaScript"],
+      "live": "https://br-jayanth.github.io/Tenzies/",
+      "source": ["https://github.com/BR-Jayanth/Tenzies"]
+    },
+    {
+      "title": "Google Gemini Clone",
+      "imageSrc": "projects/googleGeminiClone.png",
+      "description": "A Google Gemini clone developed using JavaScript and React, featuring advanced React concepts like props, useEffect, state, and Context Provider hooks. This project also integrates the Google Generative AI API to provide real-time responses, showcasing expertise in modern React development and AI API integration.",
+      "skills": ["React","JavaScript"],
+      "live": "https://br-jayanth.github.io/Google-Gemini-clone/",
+      "source": ["https://github.com/BR-Jayanth/Google-Gemini-clone"]
+    },
+    {
+      "title": "Mark Down Notes",
+      "imageSrc": "projects/markDownNotes.png",
+      "description": "Markdown Notes is a project that enables the creation of markdown notes, built using JavaScript and React. It leverages npm packages like Showdown, React MDE, React Router DOM, and React Split, along with React hooks such as props, useEffect, and useState. The project also integrates Firebase Firestore for database management, demonstrating how to embed Firebase Firestore in a React application.",
+      "skills": ["React","JavaScript","Firebase FireStore"],
+      "live": "https://br-jayanth.github.io/Mark-down-notes/",
+      "source": ["https://github.com/BR-Jayanth/Mark-down-notes"]
+    },
+    {
+      "title": "Movies API",
+      "imageSrc": "projects/movieApi.png",
+      "description": "The Movie API application showcases movies and reviews, allowing users to submit their own reviews. The front end is built with React, utilizing various Node packages like React Font Awesome, React Bootstrap, ReactPlayer, and React Router DOM, along with JavaScript and React hooks. The backend is developed with Java and Spring Boot, storing data in MongoDB Atlas. Custom REST APIs are created for CRUD operations, including retrieving movie data, adding new reviews, and updating movie collections in MongoDB Atlas. These APIs are hosted on Render.com for global access.",
+      "skills": ["React","JavaScript","Java","Spring Boot","MongoDb Atlas"],
+      "live": "https://br-jayanth.github.io/Movie-Api-Frontend/",
+      "source": ["https://github.com/BR-Jayanth/Movie-Api-Frontend","https://github.com/BR-Jayanth/Movie-Api-Backend"]
+    }
+  ]

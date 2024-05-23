@@ -1,0 +1,109 @@
+@import "../../var.css";
+
+.container {
+
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+    box-shadow: 0 16px 14px 0 #04152d;
+    padding: 18px 24px;
+    max-width: 350px;
+    height: 500px;
+}
+
+.container:hover {
+    transition: all 0.2s ease-in-out 0s;
+    transform: scale(1.1, 1.1);
+   
+    height: fit-content;
+}
+
+/* making container to display all the content in paragraph */
+.container:hover .description {
+    -webkit-line-clamp: unset;
+    /* Remove line clamp */
+    white-space: normal;
+    /* Allows text to wrap */
+    overflow: visible;
+    /* Shows all text */
+    max-width: 100%;
+    /* Ensures it doesn't exceed container width */
+}
+
+.image {
+    /* margin-bottom: 26px; */
+    height: 180px;
+    border-radius: 10px;
+    margin-bottom: 26px;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: 700;
+
+}
+
+.description {
+    margin-top: 6px;
+    font-size: 25px;
+    font-weight: 400;
+
+    /* making container to display only 3 lines the content in paragraph  */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    /* Show 3 lines */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: all 0.3s ease;
+    width: 100%;
+
+}
+
+
+.skills {
+    width: 100%;
+
+    margin-top: 14px;
+    margin-bottom: 14px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 6px;
+    list-style: none;
+
+}
+
+.skill {
+    font-size: 25px;
+    font-weight: 400;
+    border-radius: 100px;
+    background: var(--color-dark);
+    padding: 2px 22px;
+}
+
+.links {
+
+    width: 100%;
+    margin-top: 25px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: auto;
+}
+
+.link {
+    text-decoration: none;
+    color: var(--color-text);
+    font-size: 30px;
+    font-weight: 600;
+    border-radius: 10px;
+    padding: 1px 22px;
+    background: var(--color-primary);
+
+}
+.link:hover{
+    border-radius: 100px;
+    background: #5275f4;
+}
