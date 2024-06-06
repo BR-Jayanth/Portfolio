@@ -103,5 +103,14 @@
       "skills": ["React","JavaScript","Java","Spring Boot","MongoDb Atlas"],
       "live": "https://br-jayanth.github.io/Movie-Api-Frontend/",
       "source": ["https://github.com/BR-Jayanth/Movie-Api-Frontend","https://github.com/BR-Jayanth/Movie-Api-Backend"]
+    },
+    {
+      "title": "Van-Life",
+      "imageSrc": "projects/vanlife.png",
+      "description": "VanLife is a full-stack application for van rentals. The front end is built with React, HTML, CSS, and JavaScript, using libraries like Font Awesome, Google Fonts, and React Router DOM. It features dynamic routing with useParams, nested routes, index routes, and Outlet, along with hooks like useSearchParams and useLocation. Protected routes, error handling with useRouterError, and form handling with action functions and useNavigation are implemented. Asynchronous operations are managed with React Suspense and the Await component. The backend is developed in Java with Spring Boot, creating custom APIs for retrieving van details, user credentials, and authorization. These APIs connect to a MongoDB Atlas cluster for CRUD operations and are hosted on Render.com for global access. MongoDB Atlas is used as the cloud database",
+      "skills": ["React","JavaScript","Java","Spring Boot","MongoDb Atlas"],
+      "live": "https://br-jayanth.github.io/vanlife-Frontend/",
+      "source": ["https://github.com/BR-Jayanth/vanlife-Frontend","https://github.com/BR-Jayanth/vanlife-Backend"]
     }
+    
   ]
